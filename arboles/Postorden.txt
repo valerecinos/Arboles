@@ -1,0 +1,2 @@
+Recorrido PostOrden:
+	Koby	Karen	Jorge	Cristiano	Sara	Tito	Pep	Leo

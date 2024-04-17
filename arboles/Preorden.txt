@@ -1,0 +1,2 @@
+Recorrido PreOrden:
+	Leo	Cristiano	Jorge	Karen	Koby	Pep	Tito	Sara
